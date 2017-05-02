@@ -386,6 +386,7 @@ box-sizing: border-box;
 background: #E6E3E0;
 	
 padding: 40px;
+border-radius: 30px;
 }
 
 .feedback em{
