@@ -403,6 +403,7 @@ color: #69C773;
 	background: #69C773;
 	box-sizing: border-box;
 	padding: 10px;
+	border-radius: 30px;
 }
 .green{
 	text-align: center;
@@ -456,6 +457,7 @@ text-align: center;
 .footer-section{
 	background: #4A565E;
 	color: #fff;
+	border-radius: 30px;
 }
 .footer{}
 .footer-part{
